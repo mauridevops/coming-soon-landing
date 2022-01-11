@@ -98,6 +98,12 @@
 		header #logo a { display: block; border: 0; float: left; margin: 0 10px 0 0; font-size: 40px; line-height: 1; letter-spacing: -2px; -webkit-font-smoothing: antialiased; }
 		header #logo a:hover { opacity: 0.8; filter: alpha(opacity=80); }
 
+	header #logo2 { font-size: 12px; margin-top: 39px; }
+		header #logo2 p { padding-top: 22px; color: white; }
+		header #logo2 a { display: block; border: 0; float: right; margin: 0 10px 0 0; font-size: 40px; line-height: 1; letter-spacing: -2px; -webkit-font-smoothing: antialiased; }
+		header #logo2 a:hover { opacity: 0.8; filter: alpha(opacity=80); }
+
+
 
 	/* Footer ------------------------------------------ */
 
