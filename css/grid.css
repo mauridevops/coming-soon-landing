@@ -38,10 +38,6 @@
 .row {
 	margin-left: -20px;
 	*zoom: 1;
-
-.row2 {
-		margin-left: 0px;
-		*zoom: 1;
 }
 .row:before,
 .row:after {
